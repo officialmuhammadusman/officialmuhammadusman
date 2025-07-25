@@ -23,12 +23,11 @@
 
 ---
 
-### 🌍 Connect With Me
+## 👨‍💻 Connect With Me
 
-<!-- Add when ready -->
-<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINK) -->
-
----
+**Muhammad Usman**  
+📧 [official.muhammadusman01@gmail.com](mailto:official.muhammadusman01@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/muhammadusman-webdev/)
 
 ### 🛠️ Technologies & Tools
 
