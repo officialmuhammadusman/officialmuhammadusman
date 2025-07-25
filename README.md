@@ -1,4 +1,4 @@
-![logo](https://github.com/officialmuhammadusman/officialmuhammadusman/blob/main/bBack%20and%20Yellow%20%20Personal%20Trainer%20Linkedin%20Banner.png)
+![logo](https://github.com/officialmuhammadusman/officialmuhammadusman/blob/main/Purple%20Blue%20Simple%20Professional%20Marketing%20Professional%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">👋 Hi, I'm Muhammad Usman</h1>
 <h3 align="center">A Passionate & Focused MERN Stack Developer from Pakistan</h3>
 
